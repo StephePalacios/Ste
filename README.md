@@ -8,8 +8,9 @@ Escribiendo texto
  -punto 2
 
  ```CPP
+ using namespace;
  int main(){
-
+    cout"Hola Mundo";
      return="0";
  }
  ```
